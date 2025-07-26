@@ -41,7 +41,7 @@ An intelligent AI-powered email writing assistant that helps you craft perfect e
 
 ## 🌐 Demo
 
-**Live Application**: [Add your deployment link here]
+**Live Application**: https://email-writer-six.vercel.app/
 
 ## 🛠️ Installation
 
